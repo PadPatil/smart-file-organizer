@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/smart-file-organizer/static/css/main.f855e6bc.css",
+    "main.js": "/smart-file-organizer/static/js/main.dd93be45.js",
+    "static/js/453.670e15c7.chunk.js": "/smart-file-organizer/static/js/453.670e15c7.chunk.js",
+    "index.html": "/smart-file-organizer/index.html",
+    "main.f855e6bc.css.map": "/smart-file-organizer/static/css/main.f855e6bc.css.map",
+    "main.dd93be45.js.map": "/smart-file-organizer/static/js/main.dd93be45.js.map",
+    "453.670e15c7.chunk.js.map": "/smart-file-organizer/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.dd93be45.js"
+  ]
+}
